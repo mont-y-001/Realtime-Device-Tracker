@@ -21,11 +21,3 @@ A realtime device tracking application built with **Node.js**, **Express**, **So
 - **Leaflet.js** - Frontend library for interactive maps
 - **HTML/CSS/JavaScript** - Frontend UI
 
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/realtime-device-tracker.git
-   cd realtime-device-tracker
